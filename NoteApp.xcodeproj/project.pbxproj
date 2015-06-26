@@ -19,6 +19,7 @@
 		3C1B31381AF4AE86002F535E /* NoteAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1B31371AF4AE86002F535E /* NoteAppTests.m */; };
 		3C1B31431AF4AFB0002F535E /* CreateNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1B31421AF4AFB0002F535E /* CreateNewViewController.m */; };
 		3C1B31491AF4B566002F535E /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1B31481AF4B566002F535E /* CustomCell.m */; };
+		3C2B078D1B3D578600CC0256 /* jaaduViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C2B078C1B3D578600CC0256 /* jaaduViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		3C1B31421AF4AFB0002F535E /* CreateNewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateNewViewController.m; sourceTree = "<group>"; };
 		3C1B31471AF4B566002F535E /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
 		3C1B31481AF4B566002F535E /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		3C2B078B1B3D578600CC0256 /* jaaduViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jaaduViewController.h; sourceTree = "<group>"; };
+		3C2B078C1B3D578600CC0256 /* jaaduViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jaaduViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 				3C1B311D1AF4AE86002F535E /* AppDelegate.m */,
 				3C1B31411AF4AFB0002F535E /* CreateNewViewController.h */,
 				3C1B31421AF4AFB0002F535E /* CreateNewViewController.m */,
+				3C2B078B1B3D578600CC0256 /* jaaduViewController.h */,
+				3C2B078C1B3D578600CC0256 /* jaaduViewController.m */,
 				3C1B31221AF4AE86002F535E /* ViewController.h */,
 				3C1B31231AF4AE86002F535E /* ViewController.m */,
 				3C0FA28D1B3FD1C3001C8FFA /* AlarmViewController.h */,
@@ -247,6 +252,7 @@
 				3C1B311E1AF4AE86002F535E /* AppDelegate.m in Sources */,
 				3C1B31491AF4B566002F535E /* CustomCell.m in Sources */,
 				3C0FA28F1B3FD1C3001C8FFA /* AlarmViewController.m in Sources */,
+				3C2B078D1B3D578600CC0256 /* jaaduViewController.m in Sources */,
 				3C1B31241AF4AE86002F535E /* ViewController.m in Sources */,
 				3C1B31431AF4AFB0002F535E /* CreateNewViewController.m in Sources */,
 				3C1B311B1AF4AE86002F535E /* main.m in Sources */,

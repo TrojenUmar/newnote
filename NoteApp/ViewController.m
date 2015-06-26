@@ -19,7 +19,7 @@
     NSMutableArray *fetchDataArray;
     NSInteger deleteInterger;
     
-    NSInteger del;
+    NSInteger jaaduVC;
 }
 @end
 
