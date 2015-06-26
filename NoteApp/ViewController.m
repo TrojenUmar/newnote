@@ -18,9 +18,8 @@
     NSManagedObjectContext *context;
     NSMutableArray *fetchDataArray;
     NSInteger deleteInterger;
-    
-    NSInteger del;
 }
+
 @end
 
 @implementation ViewController
