@@ -21,6 +21,7 @@
     
     NSString *demo;
     NSString *demo2;
+    NSInteger demo3;
 }
 @end
 
