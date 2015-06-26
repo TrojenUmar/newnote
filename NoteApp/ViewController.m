@@ -20,6 +20,7 @@
     NSInteger *deleteInterger;
     
     NSString *demo;
+    NSString *demo2;
 }
 @end
 
