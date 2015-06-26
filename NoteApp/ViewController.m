@@ -17,7 +17,10 @@
 {
     NSManagedObjectContext *context;
     NSMutableArray *fetchDataArray;
-    NSInteger *deleteInterger;
+    NSInteger deleteInterger;
+
+    NSInteger reset;
+    NSString *restsoft;
 }
 @end
 
