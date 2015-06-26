@@ -18,6 +18,8 @@
     NSManagedObjectContext *context;
     NSMutableArray *fetchDataArray;
     NSInteger *deleteInterger;
+    
+    NSString *reset;
 }
 @end
 
