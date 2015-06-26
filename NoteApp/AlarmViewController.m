@@ -13,6 +13,7 @@
 
 {
     NSInteger demo3;
+    NSInteger demo4;
 }
 
 @end
