@@ -11,6 +11,10 @@
 #import <CoreData/CoreData.h>
 @interface AlarmViewController ()
 
+{
+    NSInteger demo3;
+}
+
 @end
 
 @implementation AlarmViewController
