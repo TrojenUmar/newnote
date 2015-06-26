@@ -18,6 +18,10 @@
     NSManagedObjectContext *context;
     NSMutableArray *fetchDataArray;
     NSInteger *deleteInterger;
+    
+    NSString *demo;
+    NSString *demo2;
+    NSInteger demo3;
 }
 @end
 
